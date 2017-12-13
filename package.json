@@ -1,0 +1,27 @@
+{
+  "name": "learn-cypress",
+  "version": "1.0.0",
+  "description": "learning integration testing with cypress",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^1.1.4"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karinamzalez/learn-cypress.git"
+  },
+  "keywords": [
+    "cypress",
+    "testing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karinamzalez/learn-cypress/issues"
+  },
+  "homepage": "https://github.com/karinamzalez/learn-cypress#readme"
+}
